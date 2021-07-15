@@ -1,1 +1,1 @@
-# terraform modules for Samples
+# terraform modules for samples
