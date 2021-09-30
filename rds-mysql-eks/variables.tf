@@ -14,5 +14,5 @@ variable "password" {
 }
 
 variable "sandbox_id" {
-  description = "Colony sandbox id"
+  description = "Torque sandbox id"
 }
